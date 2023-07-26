@@ -1,6 +1,6 @@
 # Distribution of MLB Statistics Over Time
 
-![gradient__avg](markdown_images/gradient__avg.png)
+![gradient__avg](assets/gradient__avg.png)
 
 * By: [Michael Wornow](https://michaelwornow.net/)
 * Code: `main.ipynb`
